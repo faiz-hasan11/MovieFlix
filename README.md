@@ -38,10 +38,10 @@ You will also see any lint errors in the console.
 ## Screenshots
 
 <p align="center"> HOME PAGE
-<image src="https://github.com/faiz-hasan11/React-To-Do-App/blob/main/homepage.png" />
+<image src="https://github.com/faiz-hasan11/MovieFlix/blob/main/landing.png" />
 </p><br>
-<p align="center"> LIST PAGE
-<image src="https://github.com/faiz-hasan11/React-To-Do-App/blob/main/item.png" />
+<p align="center"> SEARCH PAGE
+<image src="https://github.com/faiz-hasan11/MovieFlix/blob/main/searchpage.png" />
 </p><br>
 
 ##### Made by Syed Faiz Hasan :wave:
