@@ -1,12 +1,15 @@
 # MovieFlix
 
-This Website is made with the help of React. This website provides a search engine for movies and web-series. The data is fetched from the [OMDB API](http://www.omdbapi.com/).The website is designed with the help of Bootstrap.
+This Website is made with the help of React. This website provides a search engine for movies and web-series. The data is fetched from the [OMDB API](http://www.omdbapi.com/). The website is designed with the help of Bootstrap.
+
+## How to Run the website
+* [Enable Mixed Content in the browser](https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en#task_FF297A08F66E47A588C14FD67C037B3A)
+* Now go to the hosted link of the website (https://react-movieflix.netlify.app/)
 
 ## Features
-* Dynamically adds , edit and remove tasks without reloading.
-* Provides interactive 3 second alert whenever task are added, removed, edited or whole list is cleared.
-* The tasks are not lost on refresh and are lost only when one clears the list.
-* Unique tasks can be edited without affecting other tasks.
+* Dynamically displays content as the user types without any 'Search' button.
+* Displays the fetched Content in a scrollable row.
+* Info about any suggested content can be obtained on clicking it.
 
 ## Technologies
 - <a href="https://reactjs.org/">React</a>
