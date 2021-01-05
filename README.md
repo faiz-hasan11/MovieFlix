@@ -1,6 +1,6 @@
-# To-Do List App
+# MovieFlix
 
-This Website is made with the help of React. This website provides the facility to add, edit and remove tasks.
+This Website is made with the help of React. This website provides a search engine for movies and web-series. The data is fetched from the [OMDB API](http://www.omdbapi.com/).The website is designed with the help of Bootstrap.
 
 ## Features
 * Dynamically adds , edit and remove tasks without reloading.
