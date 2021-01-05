@@ -1,6 +1,6 @@
 # MovieFlix
 
-This Website is made with the help of React. This website provides a search engine for movies and web-series. The data is fetched from the [OMDB API](http://www.omdbapi.com/). The website is designed with the help of Bootstrap.
+This Website is made with the help of React. This website provides a search engine for movies and web-series. The data is fetched from the [OMDb API](http://www.omdbapi.com/). The website is designed with the help of Bootstrap.
 
 ## How to Run the website
 * [Enable Mixed Content in the browser](https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en#task_FF297A08F66E47A588C14FD67C037B3A)
@@ -10,9 +10,13 @@ This Website is made with the help of React. This website provides a search engi
 * Dynamically displays content as the user types without any 'Search' button.
 * Displays the fetched Content in a scrollable row.
 * Info about any suggested content can be obtained on clicking it.
+* Default 404 image for fetched content wihtout Movie/WebSeries Poster.
 
 ## Technologies
 - <a href="https://reactjs.org/">React</a>
+- <a href="https://getbootstrap.com/">Bootstrap</a>
+- <a href="http://www.omdbapi.com/">OMDb API</a>
+
 ## How To Run
 Fork the repository and install the contents in a folder.
 
