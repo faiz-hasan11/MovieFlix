@@ -17,7 +17,7 @@ This Website is made with the help of React. This website provides a search engi
 - <a href="https://getbootstrap.com/">Bootstrap</a>
 - <a href="http://www.omdbapi.com/">OMDb API</a>
 
-## How To Run
+## How To Run On LocalHost
 Fork the repository and install the contents in a folder.
 
 In the project folder, run the following:
